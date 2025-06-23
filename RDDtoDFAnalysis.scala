@@ -28,7 +28,6 @@ object RDDtoDFAnalysis {
       .agg(sum($"No_Of_Emp").as("Total_Employees"))
       .orderBy(desc("Total_Employees"))
 
-//    println("\n🏆 Company Ranking by Total Number of Employees (DataFrame Version):\n")
     rankedDF.show(truncate = false)
 
     spark.stop()
