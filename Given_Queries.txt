@@ -1,0 +1,8 @@
+	Comparision of different companies 
+	Top designations present in a particular company
+	Top companies providing maximum salary for a particular designation
+	Country growth on the basis of industries growth in that country in 3 years
+	Ranking of companies on the basis of different growth factors(Price Earnings Ratio,Return On Equity,Number of Employees)
+	Growth in a particular industry on the basis of its companies growth
+	Designation Hierarchy in a Company on salary basis
+	Company’s growth in last 3 years
